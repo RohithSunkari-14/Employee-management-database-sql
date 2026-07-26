@@ -1,6 +1,6 @@
 # Employee Management System using SQL
 
-## 📌 Project Overview
+## Project Overview
 
 The Employee Management System is a relational database project developed using **MySQL** to manage and organise employee-related information within an organisation. The project demonstrates database design, table relationships, SQL programming, and reporting techniques by integrating multiple modules such as employee details, departments, attendance, leave management, and payroll.
 
